@@ -1,0 +1,11 @@
+body
+{
+  color: white;
+  background: skyblue;
+}
+
+#selfie_header
+{
+    font-size:30px;
+    font-weight:bold;
+}
